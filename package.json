@@ -1,0 +1,20 @@
+{
+  "name": "4_1_c_padua",
+  "version": "1.0.0",
+  "description": "This is an example of a full stack web application.",
+  "main": "server.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " (https://github.com/chenpadua/4_1_c_padua.git)"
+  },
+  "author": "Chennie",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
