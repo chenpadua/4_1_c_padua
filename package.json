@@ -4,7 +4,10 @@
   "description": "This is an example of a full stack web application.",
   "main": "server.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "serve": "nodemon server.js"
+  
   },
   "repository": {
     "type": "git",
